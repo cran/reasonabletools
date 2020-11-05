@@ -1,0 +1,15 @@
+dd0f1986f981931c072b10fc8a27c319 *DESCRIPTION
+af2e21ef9abcacaaeba13f37f9374866 *LICENSE
+459acc090a0d1e29c33c4832a81fa4a5 *NAMESPACE
+09c99ecf230a49c7d82d8439f80d31c8 *R/cleaning_functions.R
+eb9b9593c7c66af3975f73056c4802cf *R/summary_functions.R
+4336fe569ccb3c5a716f2cf0970df53b *README.md
+b36195ea561250405c4dcaaf5b253fb8 *man/calc_AML.Rd
+16a771f86bf689ba3c3bd858ee66897d *man/calc_MDL.Rd
+883639061ddce11a28c3832b848d8853 *man/calc_WLA.Rd
+89c202a3b115533a97e02ea8eb31f4c3 *man/cen_sum.Rd
+b0212a5e085a57296e340b1cfd4aff84 *man/cv_adj.Rd
+884214d2061c28fd0b38fe2fcfebe94b *man/find_mec.Rd
+8c0ca985b891f058e1bce3c13b4180c1 *man/fuse_samples.Rd
+3853cacff5acaee544adda111310cf69 *man/mrg_cen_cols.Rd
+2c17bf296b699b11a7b36f909d594a4c *man/project_mec.Rd
